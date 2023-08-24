@@ -1,7 +1,7 @@
 /**
  * Author: Joe Foster
- *         jfoster23@husker.unl.edu
- * Date: 20xx/xx/xx
+ *         jfoster23@huskers.unl.edu
+ * Date: 2023/08/24
  *
  * A simple hello world program in C
  *
